@@ -1,0 +1,82 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #dddddd;
+  background-size: cover;
+}
+
+.aggrement{
+  color: #555555;
+  font-size :10px;
+}
+
+ .form-background{
+    background-color: #ffffff;
+    padding: 15px;
+     /*border-radius: 10px;*/
+  }
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+} 
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.text-gray{
+  color: #999999;
+}
+.profile-img {
+    width: 80px;
+    height: 80px;
+    padding:20px;
+    margin:-30px auto 20px;
+    display: block;
+    border-radius: 20% ;
+    background-color: #fff;
+}
+.remark-brand{
+    margin-top: 100px;
+    color: #ffffff;
+}
+/*.login-container{
+  margin-top: 150px;
+}*/
+
+.login-container{
+  margin-top:80px;
+}
+
+h1{
+  font-size: 45px;
+}
+h3{
+  font-size: 36px;
+}
